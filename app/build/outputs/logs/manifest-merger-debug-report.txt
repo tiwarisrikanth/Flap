@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:2:1-72:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/multidex-2.0.1.aar/634ffd19bbe9c54d582550fb0b442596/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-games:18.0.1] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-games-18.0.1.aar/c3404bfb5cc5aebc26d3a940be40e246/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-drive-17.0.0.aar/0207478d644ea2104d8831490eab1053/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.preference:preference:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/preference-1.1.0.aar/5eabf3c40ff8e05d99e6703b50ff576e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/5d15ee2f3cd240ec3e66ae454d199106/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/407e056358f8b4e2ddefade86bc3e737/AndroidManifest.xml:2:1-11:12
+MERGED from [:aob_sessionreporting] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/c02618cbf9577901cf79ab28c2fd3f4d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4914ee29e51c1ba72587c567fe25f31d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/c6268a785c34ec2e43a98c9ed2f98e4b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/a6e9d54fa13f5a66cf74f5bea71ca183/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/fcf035dd05d373a155a76fcc7a4b4bd2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/8268fec85fabfe87f1213aa92c06bc99/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/9fd590d9d1fb3a93e729a98dd8e923c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9c1d78a1309e3c4fffb03841e476eea2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d000a60a5c022d35ae36f2e6f18b9993/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/ac0c35b811d3c4b584d3355f02fdcc94/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7bb5e81e1f193571976fad183100446d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/47e5fb19a05d67ed2e372a40630f7a1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/005a440159679785e4fdeb1eb616d187/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9e521eb70e7bc617ac4766efc8845f2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/3bd8abb7becb9252e68d30f3418dcb40/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2809f5b0246de383dc76e5410a36d77c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/48d3645bfd3201daf3a4829846253408/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/0875e5c523ed769c64ce082a4c714fcc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/9e0c39f73892583c0bbe5fbe04d69fa6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/516dc2c863c314336d1de2f5cb783a46/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a165e0935e26e0153c7439a2a8cea241/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b0ed159ac01ce657df5d9202bf9efdcb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/14141ad4d02fa9dd3c38be516a8dbd29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b8370171d2a5729a7b22b2ede69dc67a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/41a228b81caa1594e4d98cd546a15532/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/9e06e32e5a74353deff766dd443844e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bc408e891573085a714f97871fd2c857/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/053f3652e49b3075668dbd3226b6c590/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/b0bbf4bed6e17a0ebed26c97d4934657/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1b6d56f68d5af2c10598419bed4ea7ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/4047f71316599938fcd62ef0509fff9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/330d5e35ffd7e89e09ae53806bce26ae/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:4:5-28
+application
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:7:5-58:19
+MERGED from [com.google.android.gms:play-services-games:18.0.1] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-games-18.0.1.aar/c3404bfb5cc5aebc26d3a940be40e246/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:18.0.1] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-games-18.0.1.aar/c3404bfb5cc5aebc26d3a940be40e246/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-drive-17.0.0.aar/0207478d644ea2104d8831490eab1053/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-drive-17.0.0.aar/0207478d644ea2104d8831490eab1053/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/407e056358f8b4e2ddefade86bc3e737/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/407e056358f8b4e2ddefade86bc3e737/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4914ee29e51c1ba72587c567fe25f31d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4914ee29e51c1ba72587c567fe25f31d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/c6268a785c34ec2e43a98c9ed2f98e4b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/c6268a785c34ec2e43a98c9ed2f98e4b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/516dc2c863c314336d1de2f5cb783a46/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/516dc2c863c314336d1de2f5cb783a46/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a165e0935e26e0153c7439a2a8cea241/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a165e0935e26e0153c7439a2a8cea241/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/516dc2c863c314336d1de2f5cb783a46/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:7:18-50
+	android:icon
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:10:9-61
+meta-data#com.google.android.gms.version
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:21:9-22:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/c6268a785c34ec2e43a98c9ed2f98e4b/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/c6268a785c34ec2e43a98c9ed2f98e4b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:22:13-66
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:21:20-65
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:23:9-24:46
+	android:value
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:24:13-43
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:23:20-70
+activity#com.companyname.gamename.PTPlayer
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:26:9-35:20
+	android:screenOrientation
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:27:13-45
+	android:configChanges
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:30:13-48
+	android:theme
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:29:13-71
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:26:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.buildbox.consent.ConsentActivity
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:37:9-40:20
+	android:theme
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:38:13-64
+supports-screens
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:60:5-63:39
+	android:largeScreens
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:60:23-50
+	android:smallScreens
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:61:9-36
+	android:normalScreens
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:63:9-37
+	android:anyDensity
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:62:9-34
+uses-permission#android.permission.INTERNET
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:65:5-67
+MERGED from [:aob_sessionreporting] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/c02618cbf9577901cf79ab28c2fd3f4d/AndroidManifest.xml:11:5-67
+MERGED from [:aob_sessionreporting] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/c02618cbf9577901cf79ab28c2fd3f4d/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:65:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:67:5-79
+MERGED from [:aob_sessionreporting] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/c02618cbf9577901cf79ab28c2fd3f4d/AndroidManifest.xml:12:5-79
+MERGED from [:aob_sessionreporting] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/c02618cbf9577901cf79ab28c2fd3f4d/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:67:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:68:5-75
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:68:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:69:5-81
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:69:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:70:5-81
+	android:name
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml:70:22-78
+uses-sdk
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/multidex-2.0.1.aar/634ffd19bbe9c54d582550fb0b442596/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/multidex-2.0.1.aar/634ffd19bbe9c54d582550fb0b442596/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:18.0.1] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-games-18.0.1.aar/c3404bfb5cc5aebc26d3a940be40e246/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:18.0.1] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-games-18.0.1.aar/c3404bfb5cc5aebc26d3a940be40e246/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-drive-17.0.0.aar/0207478d644ea2104d8831490eab1053/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-drive-17.0.0.aar/0207478d644ea2104d8831490eab1053/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/preference-1.1.0.aar/5eabf3c40ff8e05d99e6703b50ff576e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/preference-1.1.0.aar/5eabf3c40ff8e05d99e6703b50ff576e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/5d15ee2f3cd240ec3e66ae454d199106/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/5d15ee2f3cd240ec3e66ae454d199106/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/407e056358f8b4e2ddefade86bc3e737/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/407e056358f8b4e2ddefade86bc3e737/AndroidManifest.xml:5:5-7:41
+MERGED from [:aob_sessionreporting] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/c02618cbf9577901cf79ab28c2fd3f4d/AndroidManifest.xml:7:5-9:41
+MERGED from [:aob_sessionreporting] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/c02618cbf9577901cf79ab28c2fd3f4d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4914ee29e51c1ba72587c567fe25f31d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/4914ee29e51c1ba72587c567fe25f31d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/c6268a785c34ec2e43a98c9ed2f98e4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/c6268a785c34ec2e43a98c9ed2f98e4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/a6e9d54fa13f5a66cf74f5bea71ca183/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/a6e9d54fa13f5a66cf74f5bea71ca183/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/fcf035dd05d373a155a76fcc7a4b4bd2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/fcf035dd05d373a155a76fcc7a4b4bd2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/8268fec85fabfe87f1213aa92c06bc99/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/8268fec85fabfe87f1213aa92c06bc99/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/9fd590d9d1fb3a93e729a98dd8e923c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/9fd590d9d1fb3a93e729a98dd8e923c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9c1d78a1309e3c4fffb03841e476eea2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/9c1d78a1309e3c4fffb03841e476eea2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d000a60a5c022d35ae36f2e6f18b9993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d000a60a5c022d35ae36f2e6f18b9993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/ac0c35b811d3c4b584d3355f02fdcc94/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/ac0c35b811d3c4b584d3355f02fdcc94/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7bb5e81e1f193571976fad183100446d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7bb5e81e1f193571976fad183100446d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/47e5fb19a05d67ed2e372a40630f7a1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/47e5fb19a05d67ed2e372a40630f7a1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/005a440159679785e4fdeb1eb616d187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/005a440159679785e4fdeb1eb616d187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9e521eb70e7bc617ac4766efc8845f2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9e521eb70e7bc617ac4766efc8845f2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/3bd8abb7becb9252e68d30f3418dcb40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/3bd8abb7becb9252e68d30f3418dcb40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2809f5b0246de383dc76e5410a36d77c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2809f5b0246de383dc76e5410a36d77c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/48d3645bfd3201daf3a4829846253408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/48d3645bfd3201daf3a4829846253408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/0875e5c523ed769c64ce082a4c714fcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/0875e5c523ed769c64ce082a4c714fcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/9e0c39f73892583c0bbe5fbe04d69fa6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/9e0c39f73892583c0bbe5fbe04d69fa6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/516dc2c863c314336d1de2f5cb783a46/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/516dc2c863c314336d1de2f5cb783a46/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a165e0935e26e0153c7439a2a8cea241/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a165e0935e26e0153c7439a2a8cea241/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b0ed159ac01ce657df5d9202bf9efdcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b0ed159ac01ce657df5d9202bf9efdcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/14141ad4d02fa9dd3c38be516a8dbd29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/14141ad4d02fa9dd3c38be516a8dbd29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b8370171d2a5729a7b22b2ede69dc67a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b8370171d2a5729a7b22b2ede69dc67a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/41a228b81caa1594e4d98cd546a15532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/41a228b81caa1594e4d98cd546a15532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/9e06e32e5a74353deff766dd443844e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/9e06e32e5a74353deff766dd443844e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bc408e891573085a714f97871fd2c857/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bc408e891573085a714f97871fd2c857/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/053f3652e49b3075668dbd3226b6c590/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/053f3652e49b3075668dbd3226b6c590/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/b0bbf4bed6e17a0ebed26c97d4934657/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/b0bbf4bed6e17a0ebed26c97d4934657/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1b6d56f68d5af2c10598419bed4ea7ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1b6d56f68d5af2c10598419bed4ea7ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/4047f71316599938fcd62ef0509fff9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/4047f71316599938fcd62ef0509fff9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/330d5e35ffd7e89e09ae53806bce26ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/330d5e35ffd7e89e09ae53806bce26ae/AndroidManifest.xml:20:5-44
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/srikanthtiwari/Desktop/Game/android/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/srikanthtiwari/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/0584610efe1c0bb4c183d5431f2c3d37/AndroidManifest.xml:24:13-79
